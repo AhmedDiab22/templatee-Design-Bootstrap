@@ -1,0 +1,31 @@
+.tool-box .option-box,
+.tool-box .gerr-check{
+    border: 2px solid #009AFF;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.tool-box .option-box ul li,
+.tool-box .gerr-check,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider,
+.carousel-indicators .active
+{
+    background-color: #009AFF;
+}
+.dropdown-menu{
+    border-top: 3px solid #009AFF;
+}
+.about h1 span,
+.about h2 span,
+.faetures h1 span,
+.price-table h1 span,
+.testimonials h1 span,
+.testimonials .item h1,
+.navbar-header span{
+    color: #009AFF;
+}
+.testimonials .carousel-indicators li.active img{
+    border: 1px solid #009AFF;
+}
